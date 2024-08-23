@@ -4,4 +4,4 @@ Repositório para armazenar as soluções dos exercícios do curso **Código Bra
 
 ## Estrutura do Repositório
 
-Os exercícios estão organizados em pastas semanais, e dentro de cada semana, os exercícios são numerados de `exercicio_01` até `exercicio_10`. Essa estrutura facilita a navegação e o acompanhamento do progresso ao longo do curso.
+Os exercícios estão organizados em pastas semanais, e dentro de cada semana, os exercícios são numerados de `exercicio_01` até `exercicio_10`.
