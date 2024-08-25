@@ -1,0 +1,1 @@
+console.log('Nome: Anderson, Cidade natal: Rio de Janeiro')
